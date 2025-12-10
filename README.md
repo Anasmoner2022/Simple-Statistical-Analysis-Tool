@@ -127,7 +127,7 @@ Results:
 
 This project is available for educational purposes.
 ## Article
-[https://medium.com/@ansmoner2000/from-concrete-to-code-building-a-statistical-analysis-tool-in-go-776e6a544978 (Medium Article Posted by me)]
+[Medium Article – From Concrete to Code](https://medium.com/@ansmoner2000/from-concrete-to-code-building-a-statistical-analysis-tool-in-go-776e6a544978)
 ## Author
 
 Created as a statistical analysis tool for processing numerical datasets.
